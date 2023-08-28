@@ -1,4 +1,4 @@
-Delpoy Link:https://64ea1f5a0ade104f6935e411--effulgent-kelpie-5c1a19.netlify.app/ .\
+Delpoy Link:https://64ea1f5a0ade104f6935e411--effulgent-kelpie-5c1a19.netlify.app/ 
 
 # Getting Started with Create React App
 
